@@ -1,0 +1,28 @@
+.home-container {
+  display: grid;
+  grid-template-columns: 1fr; /* This creates a single column */
+  justify-items: center
+}
+
+.header-home {
+  font-size: 80px;
+  margin-right: 40%;
+  white-space: nowrap;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 0;
+}
+
+.header-extra {
+  position: relative;
+  z-index: 2;
+  margin: 0;
+  width: 70%;
+}
+
+.header-extra2{
+  position: relative;
+  z-index: 3;
+  margin-top: 20;
+  width: 70%;
+}

@@ -1,0 +1,25 @@
+form {
+  width: 90%;
+  max-width: 620px;
+}
+
+.input-group {
+  margin-bottom: 30px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  outline: 0;
+  border: 1px solid #fff;
+  color: black;
+  border-color: black;
+}
+
+button {
+  padding: 10px;
+  color: black;
+  border-color: black;
+  width: 100%;
+  border: 1px solid; 
+}
